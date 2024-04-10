@@ -58,7 +58,7 @@ HR-Employee-Attrition.csv
      Active employees <br>
      Attrition count <br>
 
-     ![Viz 1](https://github.com/VarunWayakole/hr_data_analysis/assets/91410941/645053a7-8fde-4847-b405-3c3aa2fb785f) <br>
+     ![Viz 1](https://github.com/VarunWayakole/MeriSKILL-Virtual-Internship/assets/91410941/ab6b4f91-7fd8-44d9-a749-969ac261b41d) <br>
 
   2. Total Attrition by Gender - Donut chart <br>
       

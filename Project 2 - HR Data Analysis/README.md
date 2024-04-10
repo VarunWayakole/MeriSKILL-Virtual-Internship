@@ -62,114 +62,115 @@ HR-Employee-Attrition.csv
 
   2. Total Attrition by Gender - Donut chart <br>
       
-     ![Viz 2](https://github.com/VarunWayakole/hr_data_analysis/assets/91410941/78b87e8e-0bd8-4766-9ac4-1ce658ca51bd) <br>
+     ![Viz 2](https://github.com/VarunWayakole/MeriSKILL-Virtual-Internship/assets/91410941/e31db661-4fbb-4d8f-86a0-40999e73e3d1) <br>
 
   3. Total Attrition by Distance From Home - Clustered bar chart <br>
   
-     ![Viz 3](https://github.com/VarunWayakole/hr_data_analysis/assets/91410941/ed72d783-a26b-4993-9cc6-db6d8eaa0028) <br>
+     ![Viz 3](https://github.com/VarunWayakole/MeriSKILL-Virtual-Internship/assets/91410941/f4794db1-8b5b-4de2-a635-2fe1d00b93c5) <br>
 
   4. Total Attrition by Marital Status - Clustered bar chart <br>
   
-     ![Viz 4](https://github.com/VarunWayakole/hr_data_analysis/assets/91410941/b7d57dc4-ae12-43af-bfd7-d49d3a5f1c19) <br>
+     ![Viz 4](https://github.com/VarunWayakole/MeriSKILL-Virtual-Internship/assets/91410941/ccc259ed-510c-484d-a63d-4e413661c088) <br>
 
   5. Total Attrition by Age - Clustered column chart <br>
   
-     ![Viz 5](https://github.com/VarunWayakole/hr_data_analysis/assets/91410941/061e6ef0-cb96-4ab5-8b1d-658e78cc57dc) <br>
+     ![Viz 5](https://github.com/VarunWayakole/MeriSKILL-Virtual-Internship/assets/91410941/4cf7d520-d68d-45c3-8ab9-d737a6a99492) <br>
 
   6. Total Attrition by Work Life Balance - Clustered bar chart <br>
   
-     ![Viz 6](https://github.com/VarunWayakole/hr_data_analysis/assets/91410941/6a8b4eca-2b57-40ae-863a-407a046cfe9f) <br>
+     ![Viz 6](https://github.com/VarunWayakole/MeriSKILL-Virtual-Internship/assets/91410941/5d5fa7cb-e8a3-4b96-a160-2eacf50df9be) <br>
 
   7. Total Attrition by Education Field - Clustered bar chart <br>
   
-     ![Viz 7](https://github.com/VarunWayakole/hr_data_analysis/assets/91410941/4876d38e-ccc1-44b5-96df-9cea8d2c5615) <br>
+     ![Viz 7](https://github.com/VarunWayakole/MeriSKILL-Virtual-Internship/assets/91410941/f66703fa-8570-4cff-be49-b29f499dc848) <br>
 
 * Turnover Analysis I
   1. Metrics: <br>
      Average Working Years <br>
      Job Role Count <br>
 
-     ![Viz 8](https://github.com/VarunWayakole/hr_data_analysis/assets/91410941/0c2b67b4-df6d-456b-9fa4-c003b7143de4) <br>
+     ![Viz 8](https://github.com/VarunWayakole/MeriSKILL-Virtual-Internship/assets/91410941/550f1c24-7050-4c63-95ff-1ad5baacb37d) <br>
 
   2. Total Attrition by Year in Current Role - Stacked column chart <br>
   
-     ![Viz 9](https://github.com/VarunWayakole/hr_data_analysis/assets/91410941/f46fe7c2-2a0b-44f7-8b36-170ca7e4424b) <br>
+     ![Viz 9](https://github.com/VarunWayakole/MeriSKILL-Virtual-Internship/assets/91410941/a2181d2f-f8bf-4ac9-a1ed-bda9f61a790b) <br>
 
   3. Total Attrition by Business Travel - Clustered bar chart <br>
   
-     ![Viz 10](https://github.com/VarunWayakole/hr_data_analysis/assets/91410941/4ff8ee3b-c827-4bda-9792-962154fa3fce) <br>
+     ![Viz 10](https://github.com/VarunWayakole/MeriSKILL-Virtual-Internship/assets/91410941/beb53972-482c-44bd-b735-919e13765c29) <br>
 
   4. Total Attrition by Department - Donut chart <br>
   
-     ![Viz 11](https://github.com/VarunWayakole/hr_data_analysis/assets/91410941/70629c10-c363-4be4-bb23-d66f1f16330e) <br>
+     ![Viz 11](https://github.com/VarunWayakole/MeriSKILL-Virtual-Internship/assets/91410941/ae388542-5a85-48b6-8152-163afa989554) <br>
      
   5. Job Role and Attrition - Table <br>
   
-     ![Viz 12](https://github.com/VarunWayakole/hr_data_analysis/assets/91410941/e063441d-a79e-4952-bc02-5f05fdd6c74f) <br>
+     ![Viz 12](https://github.com/VarunWayakole/MeriSKILL-Virtual-Internship/assets/91410941/e0889b41-81a4-4ebe-87da-b1926e3c2bf2) <br>
 
   6. Total Attrition by Job role - Stacked bar chart <br>
   
-     ![Viz 13](https://github.com/VarunWayakole/hr_data_analysis/assets/91410941/efb5c4c3-0285-4c92-9241-a5edad7d3bfe) <br>
+     ![Viz 13](https://github.com/VarunWayakole/MeriSKILL-Virtual-Internship/assets/91410941/b197f025-ef82-464d-9cd5-e34bcd9d4633) <br>
 
 * Turnover Analysis II
   1. Total Attrition by Performance and Rating - Pie chart <br>
   
-     ![Viz 14](https://github.com/VarunWayakole/hr_data_analysis/assets/91410941/90c0d364-5102-4d4d-9b4e-69a2eb5be869) <br>
+     ![Viz 14](https://github.com/VarunWayakole/MeriSKILL-Virtual-Internship/assets/91410941/05607dec-8c13-4dee-948d-4239c494c00e) <br>
 
   2. Total Attrition by Over Time - Clustered column chart <br>
   
-     ![Viz 15](https://github.com/VarunWayakole/hr_data_analysis/assets/91410941/d077bfcf-f0c7-4977-9dd3-24b7e33d35e5) <br>
+     ![Viz 15](https://github.com/VarunWayakole/MeriSKILL-Virtual-Internship/assets/91410941/28a2b4e2-1e95-4f4e-ae6e-d4a57ebfa6de) <br>
 
   3. Total Attrition by Age and Gender - Clustered column chart <br>
   
-     ![Viz 16](https://github.com/VarunWayakole/hr_data_analysis/assets/91410941/00b4d898-b9f3-4dc5-ad0f-985ef8097dfd) <br>
+     ![Viz 16](https://github.com/VarunWayakole/MeriSKILL-Virtual-Internship/assets/91410941/ebab3935-db8f-44ce-95d6-8c5eba38329a) <br>
 
   4. Total Attrition by Job Level - Funnel <br>
   
-     ![Viz 17](https://github.com/VarunWayakole/hr_data_analysis/assets/91410941/674cb4c6-60d4-4848-b0e7-02389857ad52) <br>
+     ![Viz 17](https://github.com/VarunWayakole/MeriSKILL-Virtual-Internship/assets/91410941/0543b9ad-e46b-4812-88a9-3c67374ea2bb) <br>
 
   5. Total Attrition by Monthly Income and Job Role - Area chart <br>
   
-     ![Viz 18](https://github.com/VarunWayakole/hr_data_analysis/assets/91410941/854c4eff-57fc-4f2f-81f8-8d497d7d7893) <br>
+     ![Viz 18](https://github.com/VarunWayakole/MeriSKILL-Virtual-Internship/assets/91410941/3281b491-5761-4158-8cd6-bf30131c0749) <br>
 
 * Employee Wellness
   1. Metrics: <br>
      Average Monthly Income <br>
      Average Hourly Rate <br>
 
-     ![Viz 19](https://github.com/VarunWayakole/hr_data_analysis/assets/91410941/dcd8a289-ea4c-4f6b-958c-8f6c09ab2876) <br>
+     ![Viz 19](https://github.com/VarunWayakole/MeriSKILL-Virtual-Internship/assets/91410941/862635e4-ca5e-4374-8f22-914fe81bde06) <br>
 
   2. Total Attrition by Job Satisfaction - Clustered column chart <br>
   
-     ![Viz 20](https://github.com/VarunWayakole/hr_data_analysis/assets/91410941/4e1535ab-640d-4f22-b5cb-eef15f30450b) <br>
+     ![Viz 20](https://github.com/VarunWayakole/MeriSKILL-Virtual-Internship/assets/91410941/38ba697d-3765-496f-80f9-d772bd44a087) <br>
 
   3. Total Attrition by Work Life Balance - Pie chart<br>
   
-     ![Viz 21](https://github.com/VarunWayakole/hr_data_analysis/assets/91410941/6b2cb66d-8b18-44c3-a7db-e440ebc281f5) <br>
+     ![Viz 21](https://github.com/VarunWayakole/MeriSKILL-Virtual-Internship/assets/91410941/b3cb4275-4acf-45c6-bae3-f7332a392f9e) <br>
 
   4. Total Attrition by Relationship Satisfaction - Clustered column chart <br>
   
-     ![Viz 22](https://github.com/VarunWayakole/hr_data_analysis/assets/91410941/887cb079-6e96-4fb6-8ddb-40fcfd27ae26) <br>
+     ![Viz 22](https://github.com/VarunWayakole/MeriSKILL-Virtual-Internship/assets/91410941/2a2dacb7-651e-4b9a-90f2-364c4819901e) <br>
 
   5. Total Attrition by Performance Rating - Clustered column chart <br>
   
-     ![Viz 23](https://github.com/VarunWayakole/hr_data_analysis/assets/91410941/53b5737a-cba6-4950-85d6-b5e54cbb462e) <br>
+     ![Viz 23](https://github.com/VarunWayakole/MeriSKILL-Virtual-Internship/assets/91410941/55a28891-010f-4707-a9a3-c880b6d4e0ab) <br>
 
   6. Total Attrition by Environmental Satisfaction - Clustered column chart <br>
   
-     ![Viz 24](https://github.com/VarunWayakole/hr_data_analysis/assets/91410941/e7ae31e8-8ba9-4fe0-8d04-7f7cc8206975) <br>
+     ![Viz 24](https://github.com/VarunWayakole/MeriSKILL-Virtual-Internship/assets/91410941/35158615-b77b-49e2-b17f-d7bc8d74bbb2) <br>
 
   7. Total Attrition by Job Involvement - Clustered bar chart <br>
   
-     ![Viz 25](https://github.com/VarunWayakole/hr_data_analysis/assets/91410941/125851e1-2204-48d0-a437-403d6b4a8d78) <br>
+     ![Viz 25](https://github.com/VarunWayakole/MeriSKILL-Virtual-Internship/assets/91410941/6d046012-a535-45fe-a37d-34c399c6f465) <br>
 
 # Dashboard:<br>
-![HR ATTRITION DASHBOARD](https://github.com/VarunWayakole/hr_data_analysis/assets/91410941/3632cb7c-5fe6-4c3c-ba29-3d8a34a219f1) <br>
 
-![Demographics](https://github.com/VarunWayakole/hr_data_analysis/assets/91410941/0272bcc1-208c-4e55-b1bc-ff2e25e83ae2) <br>
+![HR ATTRITION DASHBOARD](https://github.com/VarunWayakole/MeriSKILL-Virtual-Internship/assets/91410941/eb0d10f2-0fc9-4137-8ccf-0896befc81cb) <br>
 
-![Turnover Analysis I](https://github.com/VarunWayakole/hr_data_analysis/assets/91410941/d9959afa-772e-4bcb-b5c4-325224da10c5) <br>
+![Demographics](https://github.com/VarunWayakole/MeriSKILL-Virtual-Internship/assets/91410941/147b0c96-a70a-4d0a-8d25-a679a2f4d270) <br>
 
-![Turnover Analysis II](https://github.com/VarunWayakole/hr_data_analysis/assets/91410941/e9cdb24c-a546-45b9-939c-f0924a6ff9ee) <br>
+![Turnover Analysis I](https://github.com/VarunWayakole/MeriSKILL-Virtual-Internship/assets/91410941/39c7bc7c-9568-4286-95ea-f0c73665c125) <br>
 
-![Employee Wellness](https://github.com/VarunWayakole/hr_data_analysis/assets/91410941/a4203004-cedd-4255-94f9-aa21320058d6) <br>
+![Turnover Analysis II](https://github.com/VarunWayakole/MeriSKILL-Virtual-Internship/assets/91410941/f303f977-0ea9-47c4-8b8a-941ff869f4ef) <br>
+
+![Employee Wellness](https://github.com/VarunWayakole/MeriSKILL-Virtual-Internship/assets/91410941/eb479841-37b4-48b9-b6f2-a7564a33d4d4) <br>
